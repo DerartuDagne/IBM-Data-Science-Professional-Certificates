@@ -36,6 +36,9 @@ The following tools were used to complete this certification:
 
 ![image](https://user-images.githubusercontent.com/112087783/229353622-1d5a21b3-4d53-44a3-aa81-6aeab85c9355.png) ![image](https://user-images.githubusercontent.com/112087783/229353753-aa7a9800-d6e4-42b4-adc0-54ce84c29fd8.png)![image](https://user-images.githubusercontent.com/112087783/229354723-7396f39c-65f4-4ad4-a78e-8d3c8d020fcb.png)![image](https://user-images.githubusercontent.com/112087783/229354831-a6b08789-13c5-45c0-aa5f-adb65202ccdf.png)![image](https://user-images.githubusercontent.com/112087783/229354431-137b84d2-1e39-4145-bbfa-43bfa2a3f595.png)![image](https://user-images.githubusercontent.com/112087783/229354640-260d196d-ee97-44c7-b94a-8cb9a0420346.png)![image](https://user-images.githubusercontent.com/112087783/229354888-66908258-c8c7-4790-9f44-be4c023fa27d.png)
 
+<h2>Projects<h2> 
+- Analyzing Historical Stock/Revenue Data and Building a Dashboard
+
 <h2>📑Certificates</h2>
 
 
@@ -60,7 +63,8 @@ The following tools were used to complete this certification:
 - Duvvana Mrutyunjaya Naidu
 - Lakshmi Holla
 - Anita Verma
-[Specialization Course Link:](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+[IBM DataScience Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 The course is a paid Course but if you can't afford that, then there is Finacial Aid option You can apply for that by answering some questions
 
