@@ -12,7 +12,7 @@ This repository contains documentation and resources used to complete the certif
 
 |No.  |Course Name                     |
 |-----|--------------------------------|
-|01   |What is Data Science            |
+|01   |[What is Data Science](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/01.%20What%20is%20Data%20Science%20%3F)            |
 |02   |Tools for Data Science          |
 |03   |Data Science Methodology        |
 |04   |Python for Data Science, AI & Development         |
