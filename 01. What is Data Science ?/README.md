@@ -13,11 +13,11 @@ Data science is the field of gaining insights from data, often with a focus on u
 
 <h2>🤬Quiz</h2>
 
-### Week-1
+### [Week-1](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/01.%20What%20is%20Data%20Science%20%3F)
 
-Quiz1:Data Science: The Sexiest Job in the 21st Century
+[Quiz1:Data Science: The Sexiest Job in the 21st Century](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/blob/main/01.%20What%20is%20Data%20Science%20%3F/Week-1/Quiz_1_week_1%20.png)
 
-Quiz2:What Makes Someone a Data Scientist?
+[Quiz2:What Makes Someone a Data Scientist?](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/blob/main/01.%20What%20is%20Data%20Science%20%3F/Week-1/Quiz_1_week_1%20.png)
 
 ### Week-2
 
