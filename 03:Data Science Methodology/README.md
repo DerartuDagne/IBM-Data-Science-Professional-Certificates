@@ -7,7 +7,7 @@ The major steps involved in tackling a data science problem.
 The major steps involved in practicing data science, from forming a concrete business or research problem, to collecting and analyzing data, to building a model, and understanding the feedback after model deployment.
 How data scientists think!
 
-### Week_1
+### [Week-1](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/03:Data%20Science%20Methodology/Week_1_From%20Problem%20to%20Approach%20and%20from%20Requirements%20to%20Collection)
  ### From Problem to Approach and from Requirements to Collection
  ### Topics
  
@@ -22,7 +22,7 @@ How data scientists think!
 
 📝 Quiz: From Requirement to Collection
  
-### Week_2
+### [Week-2](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/03:Data%20Science%20Methodology/Week_2_From%20Understanding%20to%20Preparation%20and%20From%20Modeling%20to%20Evaluation)
 
 ### From Understanding to Preparation and From Modeling to Evaluation
 
@@ -39,7 +39,7 @@ How data scientists think!
 
 📝 Quiz: From Modeling to Evaluation
 
-### Week_3
+### [Week-3](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/03:Data%20Science%20Methodology/Week_3_From%20Deployment%20to%20Feedback)
 
 ### From Deployment to Feedback
 ### Topics
