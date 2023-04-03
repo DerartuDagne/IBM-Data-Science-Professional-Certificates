@@ -1,4 +1,4 @@
-# Introduction to Data Visualization
+# Introduction to Data Visualization✨
 ## 🔑 Key Skills Learned
 
 - Data visualization and some of the best practices to keep in mind when creating plots and visuals.
