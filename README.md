@@ -1,7 +1,8 @@
-
+![image](https://user-images.githubusercontent.com/112087783/229606168-b35d44f3-b045-4d61-baf7-1cebbc0199f1.png)
+![image](https://user-images.githubusercontent.com/112087783/229606267-8b57ff1b-166d-42fb-af37-3549034de0c6.png)
+![image](https://user-images.githubusercontent.com/112087783/229606295-91dbb717-18ed-4ede-9165-20d4d01f8da6.png)
 # IBM-Data-Science-Professional-Certificates
-![image](https://user-images.githubusercontent.com/112087783/229282047-ad3e19a0-fad1-454d-867e-f2fb59a97b4f.png) 
-
+![image](https://user-images.githubusercontent.com/112087783/229606861-8f17d418-51e8-4bd6-89c2-12c9e3d9596a.png)
 <h2>📑 About</h2>
 
 The [IBM Data Science Professional Certification](https://www.ibm.com/training/badge/data-science-professional-certificate) consists of 10 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms.
@@ -14,14 +15,14 @@ This repository contains documentation and resources used to complete the certif
 |-----|--------------------------------|
 |01   |[What is Data Science ?](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/01.%20What%20is%20Data%20Science%20%3F)            |
 |02   |[Tools for Data Science](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/02:Tools%20for%20Data%20Science/Week_2_Open%20Source%20Tools)          |
-|03   |Data Science Methodology        |
-|04   |Python for Data Science, AI & Development         |
-|05   |Python Project for DataScience         |
-|06   |Databases and SQL for Data Science with Python         |
-|07   |Data Analysis with python        |
-|08   |Data Visualization with Python         |
-|09   | Machine Learning With Python       |
-|10   |Applied Data Science Capstone         |
+|03   |[Data Science Methodology](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/03:Data%20Science%20Methodology)        |
+|04   |[Python for Data Science, AI & Development](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate-2023/tree/main/04:%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)         |
+|05   |[Python Project for DataScience](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate-2023/tree/main/05:%20Python%20Project%20for%20DataSciencee)         |
+|06   |[Databases and SQL for Data Science with Python](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)         |
+|07   |[Data Analysis with python](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/07.%20Data%20Analysis%20with%20Python/Week_1_Importing%20Dataset)        |
+|08   |[Data Visualization with Python](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/08:%20Data%20Visualization%20with%20Python)         |
+|09   |[Machine Learning With Python](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/09:%20Machine%20Learning%20With%20Python)       |
+|10   |[Applied Data Science Capstone](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:10:%20Applied%20Data%20Science%20Capstone)         |
 
 <h2>🛠️🪓Tools</h2>
 
@@ -39,27 +40,31 @@ The following tools were used to complete this certification:
 <h2>Projects</h2> 
 
 - Analyzing Historical Stock/Revenue Data and Building a Dashboard
+- Extracting and Visualizing Stock Data
+- Chicago Census, Crime, and School Data Analysis using SQL
+- House Price Predictions
+- US Domestic Airline Flights Performance Dashboard
+- Best Classifier Model
+- Predicting Successful Rocket Landings
+- Dashboard and Interactive Map
 
 <h2>📑Certificates</h2>
 
-
-
 <h2>👏Credits and Acknowledgments👏</h2>
 
-### Primary Instructors
+#### Primary Instructors
 - Joseph Santarcangelo
 - Yan Luo
-### Other Contributors & Staff 
-- #### Project Lead: Rav Ahuja
-- #### Instructional Designer: Lakshmi Holla
-- #### Lab Authors: Joseph Santarcangelo, Yan Luo, Azim Hirjani, Lakshmi Holla
-### Technical Advisor: Yan Luo
+#### Other Contributors & Staff 
+- ##### Project Lead: Rav Ahuja
+- ##### Lab Authors: Joseph Santarcangelo, Yan Luo, Azim Hirjani, Lakshmi Holla
+#### Technical Advisor: Yan Luo
 - Production Team
 - Publishing: Grace Barker, Rachael Jones
-### Project Coordinators: Kathleen Bergner
+#### Project Coordinators: Kathleen Bergner
 - Narration: Bella West
 - Video Production: Simer Preet, Lauren Hall, Hunter Bay, Tanya Singh, Om Singh
-### Teaching Assistants and Forum Moderators
+#### Teaching Assistants and Forum Moderators
 - Malika Singla
 - Duvvana Mrutyunjaya Naidu
 - Lakshmi Holla
