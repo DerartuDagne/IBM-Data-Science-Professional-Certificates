@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/112087783/229606168-b35d44f3-b045-4d61-baf7-1cebbc0199f1.png)
-![image](https://user-images.githubusercontent.com/112087783/229606267-8b57ff1b-166d-42fb-af37-3549034de0c6.png)
-![image](https://user-images.githubusercontent.com/112087783/229606295-91dbb717-18ed-4ede-9165-20d4d01f8da6.png)
+![image](https://user-images.githubusercontent.com/112087783/229612100-0c1ea480-c998-421f-971e-b593880a4cee.png)
 # IBM-Data-Science-Professional-Certificates
 ![image](https://user-images.githubusercontent.com/112087783/229606861-8f17d418-51e8-4bd6-89c2-12c9e3d9596a.png)
 <h2>📑 About</h2>
