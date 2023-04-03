@@ -1,4 +1,4 @@
-# Basic and Specialized Visualization Tools
+# Basic and Specialized Visualization Tools✨
 
 ## 🔑 Key Concepts
 
