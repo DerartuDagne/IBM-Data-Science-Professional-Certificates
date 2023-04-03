@@ -1,6 +1,6 @@
 # Applied Data Science Capstone💥
 
-## 📅 Week 1 - Introduction to Capstone Project
+## [📅 Week 1 - Introduction to Capstone Project](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone/Week_1_Introduction)
 
 - Introduction to Capstone Project
 - Location Data Providers
