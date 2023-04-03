@@ -1,8 +1,8 @@
-# 📅 Week-1
+## 📅 Week-1
 
-## Importing Datasets
+### Importing Datasets
 
-### 📄 Lesson Summary
+#### 📄 Lesson Summary
 
 - Defining the Business Problem:is very crucial phase to know what kind of analysis should be done.
 
