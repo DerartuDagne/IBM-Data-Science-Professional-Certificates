@@ -1,32 +1,46 @@
 # Applied Data Science Capstone💥
 
-## [📅 Week 1 - Introduction to Capstone Project](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone/Week_1_Introduction)
+## [📅 Week-1](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone/Week_1_Introduction)
 
-- Introduction to Capstone Project
-- Location Data Providers
-- Signing-up for a Watson Studio Account
-- Peer-review Assignment: Capstone Project Notebook
+###  Introduction to Capstone Project
 
-## 📅 Week 2 - Foursquare API
+- Capstone Introduction and Understanding the Datasets
 
-- Introduction to Foursquare
+- Collecting the Data
 
-- Getting Foursquare API Credential
+- DataWrangling
 
-- Using Foursquare API
-- Lab: Foursquare API
-- Quiz: Foursquare API
+- Quiz
 
-## 📅 Week 3 - Neighborhood Segmentation and Clustering
+## 📅 Week-2 
 
-- Clustering
+### Exploratory Data Analysis
 
-- Lab: Clustering
+- Exploratory Analysis Using SQL
 
-- Lab: Segmenting and Clustering Neighborhoods in New York City
+- Exploratory Analysis Using Pandas and Matplotlib
 
-- Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
+- Check Points
+
+- Quiz
+
+## 📅 Week-3 
+
+### Interactive Visual Analytics and Dashboard
+
+- Quiz
+
  
-## 📅 Week 4 - Capstone Project
+## 📅 Week-4 
 
-## 📅 Week 5 - Capstone Project (Cont'd)
+## Predictive Analysis (Classification)
+
+- Quiz
+
+## 📅 Week_5 
+
+### Present Your Findings
+
+- How to Present Your Findings
+- Final Presentation
+
