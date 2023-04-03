@@ -12,7 +12,7 @@
 
 - Quiz
 
-## 📅 Week-2 
+## [📅 Week-2](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone/Week_2_Exploratory%20Data%20Analysis)
 
 ### Exploratory Data Analysis
 
