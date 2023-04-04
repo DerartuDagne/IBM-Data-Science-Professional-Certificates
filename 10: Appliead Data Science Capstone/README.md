@@ -24,7 +24,7 @@
 
 - Quiz
 
-## 📅 Week-3 
+## [📅 Week-3](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone/Week_3_Interactive%20Visual%20Analytics%20and%20Dashboards) 
 
 ### Interactive Visual Analytics and Dashboard
 
