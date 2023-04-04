@@ -3,7 +3,9 @@
 ![image](https://user-images.githubusercontent.com/112087783/229606861-8f17d418-51e8-4bd6-89c2-12c9e3d9596a.png)
 <h2>📑 About</h2>
 
-The [IBM Data Science Professional Certification](https://www.ibm.com/training/badge/data-science-professional-certificate) consists of 10 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms.
+Data Science is the field of exploring, manipulating, and analyzing data, and using data to answer questions or make recommendations and one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills.
+
+The [IBM Data Science Professional Certification](https://www.ibm.com/training/badge/data-science-professional-certificate) consists of 10 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. 
 
 This repository contains documentation and resources used to complete the certification, relevant notes and other code snippets, and proof of certification for each course.
 
