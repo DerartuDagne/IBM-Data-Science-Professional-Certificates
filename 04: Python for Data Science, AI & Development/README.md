@@ -1,17 +1,17 @@
 
-<h1>💥 Python for Data Science, AI & Development</h1>
+<h1>Python for Data Science, AI & Development✨</h1>
 
 This module teaches the basics of Python and begins by exploring some of the different data types such as integers, real numbers, and strings. 
 Continue with the module and learn how to use expressions in mathematical operations, store values in variables, and the many different ways to manipulate strings.
 
-<h2>Learning Objectives</h2>
+<h2>📄 Learning Objectives</h2>
 
 - Demonstrate an understanding of types in Python by converting or casting data types such as strings, floats, and integers.
 - Interpret variables and solve expressions by applying mathematical operations.
 - Describe how to manipulate strings by using a variety of methods and operations.
 - Build a program in JupyterLab to demonstrate your knowledge of types, expressions, and variables.
 - Work with, manipulate, and perform operations on strings in Python
-
+## 📑 Course Syllabus
 ## Week-1
 
  ### Python Basics
@@ -20,7 +20,7 @@ Continue with the module and learn how to use expressions in mathematical operat
 - Expressions and Variables
 - String Operations
 
-## Week-2
+## 📅 Week-2
 
 ### Python Data Structures
 
@@ -28,7 +28,7 @@ Continue with the module and learn how to use expressions in mathematical operat
 - Sets
 - Dictionaries
 
-## Week-3
+## 📅 Week-3
 
 ### Python Programming Fundamentals
 
@@ -36,7 +36,7 @@ Continue with the module and learn how to use expressions in mathematical operat
 - Loops
 - Functions
 
-## Week-4
+## 📅 Week-4
 
 ### Working with Data in Python
 
@@ -47,8 +47,10 @@ Continue with the module and learn how to use expressions in mathematical operat
 - Numpy
 - Objects and Classes
 
-## Week-5
+## 📅 Week-5
 
 Final Project
 
-## 🎀Certificate
+## 🏆 Certificate
+
+![image](https://user-images.githubusercontent.com/112087783/230208234-bad06643-8af2-47d8-b6ff-19d477dec7a7.png)![image](https://user-images.githubusercontent.com/112087783/230209370-343257b8-ac52-4eae-8ed2-02f5179991bf.png)
