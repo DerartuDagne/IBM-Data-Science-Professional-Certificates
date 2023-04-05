@@ -1,5 +1,5 @@
-# Applied Data Science Capstone💥
-
+# Applied Data Science Capstone✨
+## 📑 Course Syllabus
 ## [📅 Week-1](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone/Week_1_Introduction)
 
 ###  Introduction to Capstone Project
