@@ -9,7 +9,7 @@ This course teaches how to present and visualize complex data in a manner that m
 This course makes use of several Python data visualization libraries such as Matplotlib, Seaborn, Plotly, and Folium, to explore Canadian immigration data. 
 It also covers dashboard creation using Plotly Dash, with a final assignment combining the skills learned to analyse and report US domestic airline flights performance. in a dashboard.
 
-## 📑  Syllabus
+## 📑  Course Syllabus
 
 ### 📅 Week-1
 #### Introduction to Data Visualization Tools
@@ -68,11 +68,12 @@ It also covers dashboard creation using Plotly Dash, with a final assignment com
 
 ## 🔑 Key Skills Learned
 
-- Using Matplotlib to create various plots, including line plots, area plots, histograms, bar charts, and more.
-- Applying advanced visualization tools to create waffle charts and word clouds.
-- Using Seaborn with Matplotlib to generate attractive regression plots.
-- Creating maps and visualizing geospatial data, using Folium.
-- Using Plotly, Plotly.graph_objects, and Plotly express commands.
-- Using Dash and basic Dash components (core and HTML).
+- Dashboards and Charts
+- dash
+- Python Programming
+- Matplotlib
+- Data Visualization (DataViz)
 
 ## 🏆 Certificates
+![image](https://user-images.githubusercontent.com/112087783/230201038-3a155271-a520-4eb0-b3a2-2c573c6e3f8d.png)![image](https://user-images.githubusercontent.com/112087783/230201683-9644d7d7-e7b1-4798-a2db-5e36768d2224.png)
+
