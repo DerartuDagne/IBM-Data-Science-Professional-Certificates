@@ -1,4 +1,4 @@
-<h1>Tools for Data Science</h1>
+<h1>Tools for Data Science✨</h1>
 
 ## 📑 Course Syllabus
 
