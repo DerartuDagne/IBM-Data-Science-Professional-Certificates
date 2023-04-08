@@ -14,9 +14,14 @@ However, the independent variable, or variables, can be measured on either a cat
 #### Types of regression models 
 
 Simple regression: regression is when one independent variable is used to estimate a dependent variable.
+- Predict co2 emmision vs Engine Size of all cars.
+- Independent Variable(X):Engine Size
+- Dependent Variable(Y):co2emmision
 
 Multiple regression.: When more than one independent variable is present the process is called multiple linear regression.
-
+- Predict co2 emmision vs Engine Size and Cylinders of all cars.
+- Independent Variable(X):Engine Size,Cylinder
+- Dependent Variable(Y):co2emmision
 #### Application of Linear Regression
 - Sales forecasting
 - Satisfaction analysis
@@ -49,4 +54,14 @@ Simple linear regression is when one independent variable is used to estimate a 
 
 - Root Mean Squared Error: is the mean of the squared error.
 
+## Lab: Simple Linear Regression
+#### Predicting the co2 emission of a car
+- In this lab, we learn how to use scikit-learn library to implement Simple linear regression.
+- We download a dataset that is related to fuel consumption and Carbon dioxide emission of cars. 
+- Then, we split our data into training and test sets, create a model using training set, evaluate your model using test set, and finally use model to predict unknown value.
+
+## Lab: Multiple Linear Regression
+
+#### Predicting the co2 emission of a car
+- In this lab, we learn how to use scikit-learn library to implement Multiple linear regression. We again use the Carbon dioxide emission dataset to build a model, Evaluate the model, and finally use model to predict unknown value.
 ## End of Module Review & Evaluation
