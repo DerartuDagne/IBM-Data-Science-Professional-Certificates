@@ -1,4 +1,4 @@
-<h1>What is Data Science? 💥</h1>
+<h1>What is Data Science? </h1>
 
 ## 📄 Summary
 
