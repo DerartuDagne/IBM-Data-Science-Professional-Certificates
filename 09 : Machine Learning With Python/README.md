@@ -6,7 +6,7 @@ This course provides a gentle introduction to ML and what it is, with topics lik
 
 The final project within this course is the building of a classifier to predict whether a loan case will be paid off. It is a classification problem, and KNN, Decision Tree, SVM, and Logistic Regression are all used to determine the best algorithm to use.
 ## 📑 Course Syllabus
-## 📅 Week-1
+## 📅 [Week-1](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/09%20:%20Machine%20Learning%20With%20Python/Week_1_Introduction%20to%20Machine%20Learning)
 ### Introduction to Machine Learning
 #### Welcome
 #### What is Machine Learning
@@ -18,7 +18,7 @@ The final project within this course is the building of a classifier to predict 
 #### End of Module Review and Evaluation
 - Practice Quiz: Intro to Machine Learning
 - Graded Quiz: Intro to Machine Learning
-## 📅 Week-2
+## 📅[Week-2](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/09%20:%20Machine%20Learning%20With%20Python/Week_2_Linear%20Regression)
 ### Regression
 #### Linear Regression
 - Introduction to Regression 
@@ -34,7 +34,7 @@ The final project within this course is the building of a classifier to predict 
 - Practice Quiz: Regression
 - Graded Quiz: Regression
 
-## 📅 Week-3
+## 📅 [Week-3](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/09%20:%20Machine%20Learning%20With%20Python/Week_3_K-Nearest%20Neighbours)
 ### Classification
 #### K-Nearest Neighbours
 - Introduction to Classification
@@ -53,7 +53,7 @@ The final project within this course is the building of a classifier to predict 
 - Practice Quiz: Classification
 - Graded Quiz: Classification
 
-## 📅 Week-4
+## 📅 [Week-4](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/09%20:%20Machine%20Learning%20With%20Python/Week_4_Linear%20Regression)
 ### Linear Regression
 #### Logistic Regression
 - Intro to Logistic Regression
@@ -67,7 +67,7 @@ The final project within this course is the building of a classifier to predict 
 - Practice Quiz: Linear Classification
 - Graded Quiz: Linear Classification
 
-## 📅 Week-5
+## 📅 [Week-5](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/09%20:%20Machine%20Learning%20With%20Python/Week_5_Clustering)
 ### Clustering
 #### k-Means Clustering
 - Intro to Clustering
@@ -77,7 +77,7 @@ The final project within this course is the building of a classifier to predict 
 ### End of Module Review & Evaluation
 - Practice Quiz: Clustering
 - Graded Quiz: Clustering
-## 📅 Week-6
+## 📅 [Week-6](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/09%20:%20Machine%20Learning%20With%20Python/Week_6_Final%20Exam)
 ### Final exam and Project
 -	Lab: Rain Prediction in Australia
 ## 🔑 Key Skills Learned
