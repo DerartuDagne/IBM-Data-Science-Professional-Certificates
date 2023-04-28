@@ -22,7 +22,7 @@ This repository contains documentation and resources used to complete the certif
 |07   |[Data Analysis with python](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/07.%20Data%20Analysis%20with%20Python/Week_1_Importing%20Dataset)        |
 |08   |[Data Visualization with Python](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/08:%20Data%20Visualization%20with%20Python)         |
 |09   |[Machine Learning With Python](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/09%20:%20Machine%20Learning%20With%20Python)       |
-|10   |[Applied Data Science Capstone](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:10:%20Applied%20Data%20Science%20Capstone)         |
+|10   |[Applied Data Science Capstone](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone)         |
 
 <h2>🛠️🪓Tools</h2>
 
