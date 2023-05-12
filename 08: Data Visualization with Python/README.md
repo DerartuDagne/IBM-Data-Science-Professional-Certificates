@@ -62,7 +62,7 @@ It also covers dashboard creation using Plotly Dash, with a final assignment com
 - Introduction to Plotly
 - Quiz
 
-## 📅 Week-5
+## 📅 [Week-5](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/08%3A%20Data%20Visualization%20with%20Python/Week.5%20Final%20Project%20and%20Exam)
 
 ### Final Project and Exam
 
