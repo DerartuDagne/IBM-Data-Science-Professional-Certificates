@@ -68,8 +68,6 @@ This repository contains documentation and resources used to complete the certif
 
 [IBM DataScience Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-The course is a paid Course but if you can't afford that, then there is Finacial Aid option You can apply for that by answering some questions
-
 
 
 
