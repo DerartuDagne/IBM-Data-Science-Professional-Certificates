@@ -35,7 +35,7 @@ Data Science is the field of exploring, manipulating, and analyzing data, and us
 - Analyzing Historical Stock/Revenue Data and Building a Dashboard
 - Extracting and Visualizing Stock Data
 - Chicago Census, Crime, and School Data Analysis using SQL
-- House Price Predictions
+- [House Price Predictions](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/blob/main/07.%20Data%20Analysis%20with%20Python/Week_1_Importing%20Dataset/Week_6_Final%20Assignment/House_Sales_in_King_Count_USA.jupyterlite.ipynb)
 - US Domestic Airline Flights Performance Dashboard
 - Best Classifier Model
 - Predicting Successful Rocket Landings
