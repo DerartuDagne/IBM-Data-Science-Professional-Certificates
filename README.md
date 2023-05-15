@@ -10,7 +10,7 @@ Data Science is the field of exploring, manipulating, and analyzing data, and us
 
 |No.  |Course Name                     |
 |-----|--------------------------------|
-|01   |[What is Data Science ?](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/01.%20What%20is%20Data%20Science%20%3F)            |
+|01   |[What is Data Science ?](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/01%3A%20What%20is%20DataScience)            |
 |02   |[Tools for Data Science](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/02:Tools%20for%20Data%20Science/Week_2_Open%20Source%20Tools)          |
 |03   |[Data Science Methodology](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/03:Data%20Science%20Methodology)        |
 |04   |[Python for Data Science, AI & Development](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificate-2023/tree/main/04:%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)         |
@@ -32,14 +32,18 @@ Data Science is the field of exploring, manipulating, and analyzing data, and us
 
 <h2>📂 Projects</h2> 
 
-- Analyzing Historical Stock/Revenue Data and Building a Dashboard
-- Extracting and Visualizing Stock Data
+- [Extracting and Visualizing Stock Data](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/blob/main/05%3A%20Python%20Project%20for%20DataScience/Week_1/Final_Assignment.ipynb)
+
 - Chicago Census, Crime, and School Data Analysis using SQL
+
 - [House Price Predictions](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/blob/main/07.%20Data%20Analysis%20with%20Python/Week_1_Importing%20Dataset/Week_6_Final%20Assignment/House_Sales_in_King_Count_USA.jupyterlite.ipynb)
-- US Domestic Airline Flights Performance Dashboard
-- Best Classifier Model
-- Predicting Successful Rocket Landings
-- Dashboard and Interactive Map
+- [US Domestic Airline Flights Performance Dashboard](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/blob/main/10%3A%20Appliead%20Data%20Science%20Capstone/Week_3_Interactive%20Visual%20Analytics%20and%20Dashboards/Build%20an%20Interactive%20Dashboard%20with%20Ploty%20Dash.ipynb)
+
+- [Space X Falcon 9 First Stage Landing Prediction](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/blob/main/10%3A%20Appliead%20Data%20Science%20Capstone/Week_4_Predictive_Analysis/Machine_Learning_Prediction_Part_5.jupyterlite.ipynb)
+
+- [Lab Model Evaluation and Refinement](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/blob/main/07.%20Data%20Analysis%20with%20Python/Week_1_Importing%20Dataset/Week-5%20Model%20Evaluation/Lab%20Model%20Evaluation%20and%20Refinement.ipynb)
+
+- [Dashboard and Interactive Map](https://github.com/DerartuDagne/IBM-Data-Science-Professional-Certificates/tree/main/10:%20Appliead%20Data%20Science%20Capstone/Week_3_Interactive%20Visual%20Analytics%20and%20Dashboards)
 
 <h2>📑Certificates</h2>
 
